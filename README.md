@@ -11,5 +11,5 @@
 |0x010B   | Dimmable Plug-in Unit |✅︎|✅︎|✅︎|✅︎|A Dimmable Plug-In Unit is a device that provides power to another device that is plugged into it, and is capable of being switched on or off and have its level adjusted. The Dimmable Plug-in Unit is typically used to control a conventional non-communicating light through its mains connection using phase cutting.|
 |0x010F   | Mounted On/Off Control |✅︎|✅︎|✅︎|✅︎|A Mounted On/Off Control is a fixed device that provides power to another device that is plugged into it, and is capable of switching that provided power on or off.|
 |0x0110   | Mounted Dimmable Load Control |✅︎|✅︎|✅︎|✅︎|A Mounted Dimmable Load Control is a fixed device that provides power to another device that is plugged into it, and is capable of being switched on or off and have its level adjusted. The Mounted Dimmable Load Control is typically used to control a conventional non-communicating light through its mains connection using phase cutting.|
-|0x0303   | Pump |✅︎|✅︎|✅︎|✅︎|A Pump device is a pump that may have variable speed. It may have optional built-in sensors and a regulation mechanism. It is typically used for pumping fluids like water.|
-|0x0042   | Water Valve |✅︎|✅︎|✅︎|✅︎||
+|0x0303   | Pump |||||A Pump device is a pump that may have variable speed. It may have optional built-in sensors and a regulation mechanism. It is typically used for pumping fluids like water.|
+|0x0042   | Water Valve ||||||
